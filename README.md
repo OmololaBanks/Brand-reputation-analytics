@@ -91,5 +91,5 @@ o	Social Media Analysis Dashboard
 -	Power BI (data modelling, DAX measures, visual analytics)
 
 ## Live Dashboard
-The interactive Excel dashboard is hosted on OneDrive for easy viewing:
+The interactive PowerBI dashboard is for easy viewing:
 [Open Live PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/abd87586-15d3-4fbd-85e3-2b51144146b8/ec04d7eaeb2987ee33b0?experience=power-bi)
